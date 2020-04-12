@@ -1,0 +1,12 @@
+server:
+  port: ${PORT:8081}
+  servlet:
+    context-path: ${API-PATH:/lametric/emtmad}
+
+config:
+  emtapi:
+    endpoint: ${EMT-API-URL:https://openapi.emtmadrid.es/}
+    version: ${EMT-API-VERSION:v2/}
+    x-apikey: ${EMT-X-APIKEY:YOUR-API-KEY-HERE}
+    x-clientId: ${EMT-X-CLIENTID:YOUR-CLIENTID-HERE}
+    passKey: ${EMT-PASSKEY:YOUR-PASSKEY-HERE}
