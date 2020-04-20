@@ -17,6 +17,11 @@ Wait a few seconds and you will see:
 ![LaMetric EMTMAD 1409](https://raw.githubusercontent.com/diegofpb/lametric-emtmad/master/images/LaMetricEMTMad1409.png)
 ![LaMetric EMTMAD 1409](https://raw.githubusercontent.com/diegofpb/lametric-emtmad/master/images/LaMetricEMTMad57.png)
 
+## TODO
+
+- [ ] Verify response code to control errors
+- [ ] Allow personalization for response items (Banner, Extended information, etc...).
+- [ ] Check use of icons and switch between stop information and arrival information.
 
 ## Feedback
 If you need help, [create an issue](https://github.com/diegofpb/lametric-emtmad/issues) or contact us via [Telegram](https://t.me/diegofpb) or [Twitter](http://twitter.com/diegofpb).
